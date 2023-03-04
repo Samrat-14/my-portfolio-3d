@@ -1,0 +1,8 @@
+[*] update data
+[*] add projects demo button
+[ ] add social links
+[ ] add custom scrollbar
+[ ] add download resume button
+[ ] add photo
+[ ] random text reveal effect - npm react-random-reveal
+[ ] button with glow outline and transparent glassy bg
