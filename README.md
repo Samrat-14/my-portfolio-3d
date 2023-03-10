@@ -2,7 +2,7 @@
 
 A 3D personal portfolio website build with react and three js.
 
-![MyPortfolio3D_screenshot](preview.png)
+![MyPortfolio3D_screenshot](preview1.png)
 
 <!-- TABLE OF CONTENTS -->
 <details>
